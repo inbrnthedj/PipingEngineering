@@ -1,12 +1,12 @@
 # Difference between ASME B31.1 and ASME B 31.3
 
-*Disclaimer: I am still learning and trying to understand profoundly the whole ASME B31 Series as I write this article/.md file and any other articles and notes in this repository. My notes are susceptible to errors and might reslut differently in actual reality of Industrial Plants. I will try as much as I can to update the articles I write here but I would suggest the reader to do a bit more of research for the topic. I would appreciate any corrections. Thank you.*
+* Disclaimer: I am still learning and trying to understand profoundly the whole ASME B31 Series as I write this article/.md file and any other articles and notes in this repository. My notes are susceptible to errors and might reslut differently in actual reality of Industrial Plants. I will try as much as I can to update the articles I write here but I would suggest the reader to do a bit more of research for the topic. I would appreciate any corrections. Thank you.*
 
-##**ASME B31.1 - Power Piping**
+## **ASME B31.1 - Power Piping**
     - *Plants :* Electric power generating stations, cogeneration plants, district heating/cooling systems, and boiler plants.
     - *Fluids :* mostly Water and Steam at high temperatures and pressures
 
-##**ASME B31.3 - Process Piping**
+## **ASME B31.3 - Process Piping**
     - *Plants :* Petroleum refineries, chemical plants, pharmaceutical facilities, semiconductor plants, and cryogenic facilities
     - *Fluids :* a massive variety of Fluids, many of which could be highly dangerous. Specifically, the code defines six main fluid services:
         - **Normal Fluid Service** – The standard catch-all category for non-severe fluids that do not fit into any other specialized category.
