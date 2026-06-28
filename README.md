@@ -5,6 +5,7 @@ Created this repository on 2026-06-22 for the purposes of collecting my notes an
 
 ## Contents
 1. Codes and Standards
+    - Practical Notes - My own personal notes on the codes and standards I study.
     - ASME B31.1 - Power Piping
     - ASME B31.3 - Process Piping
 2. Plant Design
