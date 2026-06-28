@@ -14,18 +14,18 @@ This initial phase is all about defining the scope, calculating costs, and negot
 
 ### Phase II: Project Execution (Detail Engineering & Assembly)
 Once the ink dries on the contract, activity spikes. This phase involves heavy concurrent engineering.
-* **Approval Planning:** Securing all legal and environmental permits from authorities.
-* **Component Procurement:** Ordering the major, long-lead items (like custom heat exchangers or large reactors) immediately, as their delivery times dictate the entire project schedule.
-* **Piping and Instrumentation Diagrams (P&ID):** The basic flow diagrams are upgraded into highly detailed schematics showing every valve, fitting, and control loop.
-* **Layout and Building Design:** Coordinating with civil and structural engineers to lock in foundation loads, steel structures, and architectural grids.
-* **Piping Planning:** Using advanced 3D CAD software to route complex piping, generate isometric drawings, and run clash detection.
-* **E/MC-Technology:** Designing the electrical, measurement, and control systems that will act as the plant's brain.
+1. **Approval Planning:** Securing all legal and environmental permits from authorities.
+2. **Component Procurement:** Ordering the major, long-lead items (like custom heat exchangers or large reactors) immediately, as their delivery times dictate the entire project schedule.
+3. **Piping and Instrumentation Diagrams (P&ID):** The basic flow diagrams are upgraded into highly detailed schematics showing every valve, fitting, and control loop.
+4. **Layout and Building Design:** Coordinating with civil and structural engineers to lock in foundation loads, steel structures, and architectural grids.
+5. **Piping Planning:** Using advanced 3D CAD software to route complex piping, generate isometric drawings, and run clash detection.
+6. **E/MC-Technology:** Designing the electrical, measurement, and control systems that will act as the plant's brain.
 
 ### Phase III: Erection, Commissioning & Acceptance
 The final stretch moves from the engineering office to the physical construction site.
-* **Erection / Assembly:** The actual physical build. This covers everything from civil excavation and steel erection to welding the prefabricated piping and installing instrumentation.
-* **Commissioning:** Testing the systems. We start with "cold" commissioning (running the plant with safe fluids like water or air) before moving to "warm" commissioning with the actual active chemicals.
-* **Acceptance & Warranty:** The plant runs under strict test conditions to prove it meets the guaranteed performance metrics. Once successful, it is officially handed over to the operator.
+7. **Erection / Assembly:** The actual physical build. This covers everything from civil excavation and steel erection to welding the prefabricated piping and installing instrumentation.
+8. **Commissioning:** Testing the systems. We start with "cold" commissioning (running the plant with safe fluids like water or air) before moving to "warm" commissioning with the actual active chemicals.
+9. **Acceptance & Warranty:** The plant runs under strict test conditions to prove it meets the guaranteed performance metrics. Once successful, it is officially handed over to the operator.
 
 ---
 
