@@ -8,9 +8,9 @@ Every plant's lifecycle is broken down into highly dependent stages to ensure op
 
 ### Phase I: Project Planning
 This initial phase is all about defining the scope, calculating costs, and negotiating the final contract.
-* **Product Development & Idea (Feasibility Studies):** It all starts with a market need. Can we manufacture this product, and can we sell it at a profit?
-* **Basic Engineering:** This is where the core concept takes shape. Engineers develop the process steps, run mass and heat balances, and draft the initial Process Flow Diagrams (PFDs). We also define the preliminary layout, specify major equipment (like vessels and pumps), and select materials that can handle the required corrosion and pressure parameters.
-* **Inquiry and Quotation:** The operator sends out the technical inquiry, manufacturers submit their bids, and intense technical and commercial negotiations follow until a contract is signed.
+1. **Product Development & Idea (Feasibility Studies):** It all starts with a market need. Can we manufacture this product, and can we sell it at a profit?
+2. **Basic Engineering:** This is where the core concept takes shape. Engineers develop the process steps, run mass and heat balances, and draft the initial Process Flow Diagrams (PFDs). We also define the preliminary layout, specify major equipment (like vessels and pumps), and select materials that can handle the required corrosion and pressure parameters.
+3. **Inquiry and Quotation:** The operator sends out the technical inquiry, manufacturers submit their bids, and intense technical and commercial negotiations follow until a contract is signed.
 
 ### Phase II: Project Execution (Detail Engineering & Assembly)
 Once the ink dries on the contract, activity spikes. This phase involves heavy concurrent engineering.
