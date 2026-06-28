@@ -7,8 +7,8 @@
 * *Fluids :* mostly Water and Steam at high temperatures and pressures
 
 ## ASME B31.3 - Process Piping
-* *Plants :* Petroleum refineries, chemical plants, pharmaceutical facilities, semiconductor plants, and cryogenic facilities
-* *Fluids* a massive variety of Fluids, many of which could be highly dangerous. Specifically, the code defines six main fluid services:
+* *_Plants_ :* Petroleum refineries, chemical plants, pharmaceutical facilities, semiconductor plants, and cryogenic facilities
+* *_Fluids_ :* a massive variety of Fluids, many of which could be highly dangerous. Specifically, the code defines six main fluid services:
     - **Normal Fluid Service** – The standard catch-all category for non-severe fluids that do not fit into any other specialized category.
     - **Category D Fluid Service** – Low-hazard, non-flammable, non-toxic fluids operating under 150 psi (1035 kPa) and between -29°C and 186°C.
     - **Category M Fluid Service** – Highly toxic fluids where even a single, small exposure can cause serious, irreversible health damage.
