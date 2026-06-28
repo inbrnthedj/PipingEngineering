@@ -23,9 +23,9 @@ Once the ink dries on the contract, activity spikes. This phase involves heavy c
 
 ### Phase III: Erection, Commissioning & Acceptance
 The final stretch moves from the engineering office to the physical construction site.
-7. **Erection / Assembly:** The actual physical build. This covers everything from civil excavation and steel erection to welding the prefabricated piping and installing instrumentation.
-8. **Commissioning:** Testing the systems. We start with "cold" commissioning (running the plant with safe fluids like water or air) before moving to "warm" commissioning with the actual active chemicals.
-9. **Acceptance & Warranty:** The plant runs under strict test conditions to prove it meets the guaranteed performance metrics. Once successful, it is officially handed over to the operator.
+1. **Erection / Assembly:** The actual physical build. This covers everything from civil excavation and steel erection to welding the prefabricated piping and installing instrumentation.
+2. **Commissioning:** Testing the systems. We start with "cold" commissioning (running the plant with safe fluids like water or air) before moving to "warm" commissioning with the actual active chemicals.
+3. **Acceptance & Warranty:** The plant runs under strict test conditions to prove it meets the guaranteed performance metrics. Once successful, it is officially handed over to the operator.
 
 ---
 
