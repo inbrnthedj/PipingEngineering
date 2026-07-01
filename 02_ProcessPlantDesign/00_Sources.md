@@ -5,6 +5,7 @@ As I build out this repository, I'll be cataloging the foundational texts, artic
 ## Contents:
 1. Process Plant Design: Project Management from Inquirey to Acceptance
 2. Chemical Process Technology, Second Edition
+3. Process Plant Layout and Piping Design
 
 ## Process Plant Design: Project Management from Inquiry to Acceptance
 * **Author:** Prof. Dr.-Ing. Frank Peter Helmus  
@@ -29,3 +30,12 @@ Beyond the technical calculations, the book emphasizes something we often overlo
 "Chemical Process Technology" serves as an exceptional bridge between the theoretical chemistry of reaction kinetics and the physical reality of plant design. As engineers, we often get bogged down in the pure mechanics of piping and equipment sizing, but this book pulls back the lens to look at the holistic industrial process. What makes it particularly useful for our repository is its deliberate focus on actual industrial flow schemes rather than just isolated unit operations. It walks through the complete lifecycle of chemical processing, from traditional fossil fuel refining, steam cracking, and syngas production to the modern integration of biomass conversion and sustainable biorefinery operations. 
 
 For a process or piping layout engineer, the real value of this text lies in its detailed breakdown of reactor scale-up and process intensification. The authors do a fantastic job of explaining the "why" behind equipment and layout decisions—such as how the highly endothermic nature of steam reforming dictates specific furnace tube dimensions, or how adopting reactive distillation can entirely eliminate the need for massive downstream separation loops and their associated piping. By detailing the operational challenges of handling different catalysts, alongside the safety and economic constraints of scaling from pilot plants to full production facilities, this document acts as a highly practical reference for anyone involved in conceptual process design or front-end engineering.
+
+## Process Plant Layout and Piping Design
+* **Author:** Ed Bausbacher, Roger Hunt
+* **Publisher:** PTR Prentice Hall
+* **Publication Date:** Not specified
+* **Language:** English
+
+### Brief Summary
+As an engineer building a comprehensive knowledge repository, *Process Plant Layout and Piping Design* is an essential resource that bridges the gap between theoretical process engineering and physical field construction. The text details how to synthesize project specifications, P&IDs, and vendor data to develop workable plot plans. Its real value lies in its granular focus on equipment-specific layout challenges—such as reserving drop zones for cranes and planning for tube bundle extraction—and the "why" behind industry practices. By explaining how factors like Net Positive Suction Head (NPSH) dictate equipment elevations and thermal expansion affects pipe routing, the book equips engineers to create designs that are inherently safe, constructible, and operator-friendly over a plant's entire lifecycle.
