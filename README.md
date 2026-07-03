@@ -8,7 +8,9 @@ Created this repository on 2026-06-22 for the purposes of collecting my notes an
     - Practical Notes - My own personal notes on the codes and standards I study.
     - ASME B31.1 - Power Piping
     - ASME B31.3 - Process Piping
+    - ASME BPVC - ASME Boiler and Pressure Vessel Code
 2. Plant Design
     - Engineering Phases
     - Industries
+    - Equipment
 
