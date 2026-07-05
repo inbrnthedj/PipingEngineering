@@ -13,5 +13,10 @@ Created this repository on 2026-06-22 for the purposes of collecting my notes an
     - Engineering Phases
     - Industries
 3. Machinery and Equipment
-    - Integrated Turbomachinery Train
-
+    - Compressors
+    - Turbomachinery Train
+    - Steam Turbine
+4. Piping Design
+    - Components (soon)
+    - Materials
+    - Valves (soon)
