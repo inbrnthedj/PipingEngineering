@@ -4,11 +4,11 @@ In piping engineering and material take-offs (MTOs), piping systems are broadly 
 
 ## Master Classification Tree
 
-1. [**Metallic Materials**](Metallic_Materials.md)
+1. [**Metallic Materials**](./Metallic_Materials.md)
    * **Carbon Steel (CS):** The benchmark industrial material for general strength.
    * **Stainless Steel (SS / AISI):** High-chromium alloys for rust and chemical prevention.
    * **Alloy Steel:** High-temperature/high-pressure specialty steels (e.g., Chrome-Moly).
-2. **Non-Metallic Materials**
+2. [**Non-Metallic Materials**](Non_Metallic_Materials.md)
    * **Thermoplastics:** Pure polymers that soften with heat; joined by solvent glue or heat fusion.
    * **Thermosetting / Fiberglass:** Reinforced plastic composites; chemically cured and un-meltable.
    * **Lined Piping:** Metallic strength outer shell with a non-metallic inner chemical sleeve.
