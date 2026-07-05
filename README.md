@@ -12,5 +12,6 @@ Created this repository on 2026-06-22 for the purposes of collecting my notes an
 2. Plant Design
     - Engineering Phases
     - Industries
-    - Equipment
+3. Machinery and Equipment
+    - Integrated Turbomachinery Train
 
