@@ -7,6 +7,20 @@ The ASME B31.3 Process Piping code prescribes requirements for the materials, de
 
 ## 2. Summary by Chapter
 
+- Chapter I: Scope and Definitions
+- Chapter II: Design
+- Chapter III: Materials
+- Chapter IV: Standards for Piping Components
+- Chapter V – Fabrication, Assembly, and Erection
+- Chapter VI – Inspection, Examination, and Testing
+_(Special Types of Piping)_
+- Chapter VII – Nonmetallic Piping and Piping Lined with Nonmetals
+- Chapter VIII – Piping for Category M Fluid Service
+- Chapter IX – High Pressure Piping
+- Chapter X – High Purity Piping
+- Appendices
+
+
 ### Chapter I: Scope and Definitions
 * **Coverage:** Defines the limits of the code and outlines the different **Fluid Service Categories** which dictate the strictness of the rules applied (Normal, Category D, Category M, High Pressure, and High Purity).
 * **Definitions:** Establishes precise terminology for process piping, such as defining the owner's responsibilities, inspectors, and stress intensification factors.

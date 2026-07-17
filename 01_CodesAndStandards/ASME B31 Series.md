@@ -39,6 +39,11 @@ The **ASME B31 Code for Pressure Piping** establishes minimum requirements for t
     - *Part PL:* Pipelines transporting hydrogen over long geographical distances.
 * **Core Fluids:** Gaseous and liquid hydrogen.
 
+### Pipeline Standards
+- B31.8S Managing System Integrity of Gas Pipelines
+- B31Q Pipeline Personnel Qualification
+- B31G Manual for Determining the Remaining Strength of Corroded Pipelines
+
 ---
 
 ## 2. Companion Enhancement Standards (Universal Engineering Support)

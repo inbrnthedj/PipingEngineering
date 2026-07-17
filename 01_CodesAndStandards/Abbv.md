@@ -11,6 +11,8 @@ This is a collection of different abbreviations I've encountered and looked for.
 - AWS: American Welding Society
 - AWWA: American Water Works Association
 
+- BPVC: Boiler and Pressure Vessel Code 
+
 - HAZOP: Hazard and Operability Study
 
 - IGCC: Integrated Gasification Combined Cycle
