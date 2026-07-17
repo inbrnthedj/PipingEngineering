@@ -15,6 +15,7 @@ Pressure design is covered for the following components:
  - blanks
  - reducers
 
+--- 
 ### Design Temperature
 It is the temperature at which, under the coincident pressure, the greatest thickness or highgest component rating is required in accordance with Paragraph 301.2
 
@@ -29,6 +30,7 @@ The **Design Minimum Temperature** may establish special design and material qua
 
 See Table 323.2.2 "Requirements for Low Temperature Toughness Tests for Metals"
 
+---
 ### Stress Values
 
 #### Allowable Stress Values
@@ -42,6 +44,12 @@ For Metallic piping materials covered under B31.3, allowable stress values are p
 - average stress for a minimum creep rate of 0.01% / 1000h
 - 2/3 avg. stress for creep rupture in 100,000h
 - 80% minimum stress creep rupture in 100,000h
+
+Allowable stress values are provided in:
+- Table A-1 (customary), Basic Allowable Stresses in Tension for Metals (starting page 167.)
+- Table A-3 (metric), 
+- Table K-1 for high pressure piping. 
+- Table A-2 provides design stress values for bolting materials. Listed materials are also provided in the component standards in Table 326.1.
 
 #### Allowable Displacement Stress Range
 S_A = allowable displacement stress range in accordance with eq. (1a and 1b), MPa (psi)
