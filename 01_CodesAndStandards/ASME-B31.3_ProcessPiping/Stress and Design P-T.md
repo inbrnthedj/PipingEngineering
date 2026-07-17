@@ -19,10 +19,10 @@ Pressure design is covered for the following components:
 It is the temperature at which, under the coincident pressure, the greatest thickness or highgest component rating is required in accordance with Paragraph 301.2
 
 Par. 301.2.1 - Design Pressure - General:
- a) The design pressure of each component shall not be less than the pressure at the most severe condition of coincident internal or external pressure and temperature (min or max) **except during service as provided in par. 302.2.4**.
- b) The most severe condition is that which results in the greatest required component thickness and the highest component rating
- c) when more than one set of pressure-temp conditions exist for a piping system, the conditions governing the rating of components conforming to listed standards may differ from the conditions governing the rating of components designed in accordance with **par. 304**.
- d) when a pipe is separated into individual pressure-containing chambers (including jacketed piping, blanks, etc.), the partition wall shall be designed on the basis of the most severe coincident temperature (min or max) and differential pressure between the adjoining chambers expected during service, **except as provided in par. 302.2.4**
+ a. The design pressure of each component shall not be less than the pressure at the most severe condition of coincident internal or external pressure and temperature (min or max) **except during service as provided in par. 302.2.4**.
+ b. The most severe condition is that which results in the greatest required component thickness and the highest component rating
+ c. when more than one set of pressure-temp conditions exist for a piping system, the conditions governing the rating of components conforming to listed standards may differ from the conditions governing the rating of components designed in accordance with **par. 304**.
+ d. when a pipe is separated into individual pressure-containing chambers (including jacketed piping, blanks, etc.), the partition wall shall be designed on the basis of the most severe coincident temperature (min or max) and differential pressure between the adjoining chambers expected during service, **except as provided in par. 302.2.4**
 
 #### Impact Test Requirements
 The **Design Minimum Temperature** may establish special design and material qualification requirements. 
