@@ -1,5 +1,5 @@
 # Inspection and Examination
-An Inspector is responsible to ensure that the requirements of the code for inspection, examination and testing are met.
+An Inspector (Owner's Inspector) is responsible to ensure that the requirements of the code for inspection, examination and testing are met.
 Rights and Qualifications of the Inspector are provided in ASME B31.3
 
 ## EXAMINATION
