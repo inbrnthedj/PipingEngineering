@@ -1,8 +1,18 @@
 # ASME B31.1-2022 Power Piping: Summary and Reference Standards
 
+Generally, ASME B31.1 tackles the following:
+- Design of components and assemblies
+- Guidance on selection of materials
+- Joining methods
+- Fabrication, assembly, and erection of piping
+- Examination, inspection, and testing of piping
+- Operation and Maintenance of Piping Systems
+- Non-metallic piping for Non-boiler external piping in Mandatory Appendix N.
+
 ## 1. Overview and Scope
 The ASME B31.1-2022 Power Piping code prescribes the minimum requirements for the design, materials, fabrication, erection, examination, testing, inspection, operation, and maintenance of piping systems. It primarily applies to electric power generating stations, industrial and institutional plants, geothermal heating systems, and central and district heating and cooling systems.
 
+The ASME B31.1 periodically is being updated every two years
 ---
 
 ## 2. Summary by Chapter
