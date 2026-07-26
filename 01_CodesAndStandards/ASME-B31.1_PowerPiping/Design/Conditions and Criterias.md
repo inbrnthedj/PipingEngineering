@@ -1,64 +1,87 @@
 # Design Conditions and Criteria
-According to ASME B31.1, Power Piping System shall be designed:
--  for the most severe conditions
-- Conditions having significant effects on designs are:
-    - Pressure
-    - Temperature
-    - Ambient influences
-    - Dynamic Effects
-    - Weight Effects
 
-### Criteria
-1. Pressure-Temperature Ratings for Piping Components
-2. Allowable Stress Values
-3. Limits for Sustained and Displacement Stresses
+According to ASME B31.1, a Power Piping System shall be designed for the most severe conditions of coincident pressure, temperature, and loading expected during service.
 
-### Allowances
-- Corrosion or Erosion
-- Threading and Grooving
-- Bending
-- Mechanical Strength
+### Design Conditions to Consider
+- Pressure
+- Temperature
+- Ambient influences (cooling/heating effects, atmospheric corrosion)
+- Dynamic effects (impact, wind, earthquake, relief valve reaction)
+- Weight effects (live loads, dead loads, snow, ice, fluid density)
+
+### Design Criteria & Limits
+1. Pressure-Temperature ratings for piping components
+2. Allowable stress values ($S$)
+3. Limits for sustained, displacement, and occasional stresses
+
+### Wall Thickness Allowances
+- Corrosion or erosion allowance
+- Threading and grooving depth allowance
+- Bending allowance (wall thinning during fabrication)
+- Mechanical strength requirements
+
+---
 
 ## Allowable Stress Values
-For power piping, the allowable stress values are given in the Tables of Appendix A ("Allowable Stresses Table") based on material and design temperature.
+For power piping, allowable stress values ($S$) are provided in **Appendix A** ("Allowable Stresses Tables") based on material specification and maximum design temperature.
 
-Design temperatures are assumed to be the same as that of the fluid unless tests or calculations support the use of other data.  If this is the case, the design temperature shall not be less than the average of the fluid temperature and the outside wall temperature. 
+### Design Temperature
+The component design temperature is generally assumed to be the maximum temperature of the fluid. For uninsulated piping, the design temperature may be reduced below the fluid temperature based on testing or engineering calculations (typically taking into account ambient heat transfer and wall thickness).
 
-## Pressure Design
-The pressure design determines the minimum thickness of the pipe wall
+---
 
-Formula when outside diameter is fixed:
-![alt text](tm_OD fixed.png)
+## Pressure Design of Straight Pipe
 
-Formula when internal diameter is fixed:
-![alt text](tm_ID fixed.png)
+Pressure design determines the minimum required wall thickness ($t_m$) for internal pressure.
 
-- **A**     = Additional thickness
-- **$D_O$**    = Fixed outer diameter
-- **d**     = Fixed inner diameter
-- **P**     = Internal design pressure
-- **SE** or **SF** = Maximum allowable stress
-- **y**     = coefficient (provided by the relevant table in the Codebook)
-- **W**     =   Weld strength reduction factor
+### 1. Formula when Outside Diameter ($D_o$) is fixed:
+
+![Fixed OD Formula](<tm_OD fixed.png>)
+
+*Alternative LaTeX format:*
+$$t_m = \frac{P \cdot D_o}{2(SE + P \cdot y)} + A$$
+
+### 2. Formula when Inside Diameter ($d$) is fixed:
+
+![Fixed ID Formula](<tm_ID fixed.png>)
+
+*Alternative LaTeX format:*
+$$t_m = \frac{P \cdot d + 2A(SE + P \cdot y)}{2[SE - P(1 - y)]} + A$$
+
+### Parameter Definitions:
+- **$t_m$** = Minimum required wall thickness (including allowances), in. (mm)
+- **$A$** = Additional thickness allowances (corrosion/erosion depth + mechanical threading/grooving allowance), in. (mm)
+- **$D_o$** = Outside diameter of pipe, in. (mm)
+- **$d$** = Inside diameter of pipe, in. (mm)
+- **$P$** = Internal design gage pressure, psig [kPa (gage)]
+- **$S$** = Basic allowable stress for material at design temperature, psi (MPa)
+- **$E$** = Longitudinal weld joint efficiency factor (or **$F$** for casting quality factor)
+- **$y$** = Temperature coefficient (per ASME B31.1 Table 104.1.2(A))
+- **$W$** = Weld joint strength reduction factor (for creep-range operating temperatures per Para. 102.4.7)
+
+---
 
 ## Components and Joints
-The B31.1 Code imposes design limitations on components and joints, including fittings and bends, gaskets, and welded or threaded joints.
+The ASME B31.1 Code imposes specific pressure, temperature, and mechanical limitations on components and joining methods.
 
 ### Components
-- Fittings and Bends
-- Valves
-- Flanges, Gaskets and Bolting
+- **Fittings and Bends:** Elbows, miters, tees, reducers
+- **Valves:** Pressure-temperature ratings, bonnet closures
+- **Flanges, Gaskets, and Bolting:** ASME B16.5 / B16.47 alignment
 
 ### Joints
-- Welded
-- Brazed and Soldered
-- Expansion
-- Threaded
+- **Welded:** Butt welds, socket welds, fillet welds
+- **Brazed and Soldered:** Temperature/fluid limitations
+- **Expansion/Mechanical:** Flanged, threaded, flared, and expansion joints
 
-## Flexibility
-Flexibility may be achieved by adding fittings, bends, offsets and loops.
-Flexibility analysis is used to determine the response of the system to thermal loads. To simplify the analysis, some basic principles are used:
-- Based on nominal dimensions
-- Moment and torsion only
-- Modulus of Elasticity at room temperature is required for stress calculations. The "hot" Modulus of elasticity can be used when calculating a reaction
-- Flexibility and Stress intensification factors
+---
+
+## Flexibility Analysis
+Flexibility is provided by adding layout changes, fittings, bends, offsets, and expansion loops to absorb thermal expansion.
+
+Key analysis principles under ASME B31.1 (Para. 119):
+- Based on nominal dimensions of pipe and fittings.
+- Accounts for bending moments and torsional moments.
+- **Cold Modulus of Elasticity ($E_c$):** Used for calculating expansion stress ranges.
+- **Hot Modulus of Elasticity ($E_h$):** Used for calculating reactions (forces and moments) on equipment and supports.
+- Incorporates **Flexibility Factors ($k$)** and **Stress Intensification Factors ($i$)** for components per Appendix D.
