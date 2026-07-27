@@ -7,8 +7,21 @@ Process Piping Code Section B31.3 has been developed considering piping design p
 - Chemical manufacturing
 - Pharmaceutical
 - Textile and Paper
-- Semiconductors
+- Ore processing, Semiconductors
 - Cryogenic plants
+
+The following fluid services:
+- raw, intermediate and finished chemicals
+- petroleum products
+- gas, steam, air and water
+- fluidized solids
+- refrigerants
+- cryogenic fluids
+
+At equipment:
+- boiler external piping (required to conform to B31.1)
+- packaged equipment piping
+- (EXTERNAL PIPING OF) pressure vessels, heat exchangers, pumps, and other fluid handling or processing equipment
 
 ## OUTSIDE OF THE SCOPE OF B31.3
 It is also necessary to note that the code section B31.3 has its limitations. 
