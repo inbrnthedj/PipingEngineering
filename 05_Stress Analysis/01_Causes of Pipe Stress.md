@@ -22,8 +22,8 @@ Minimum-values:
 4. 100% average stress for a creep rate of 0.01% per 1000h.
 5. for temps up to and including 815°C (1500°F): 67% average stress for rupture at the end of 100 000h.
 6. for temps > 815°C (1500°F): (100x $F_avg$)% times the avg stress for rupture at the end of 100 000h.
-    - $F_avg$ is determined from the slope, n, of the log time-to-rupture versus log stress plot at 100 000h such that $F_avg = \frac{1}{n}$
-    - $F_avg$ shall not exceed 0.67
+    - $F_{avg}$ is determined from the slope, n, of the log time-to-rupture versus log stress plot at 100 000h such that $F_{avg} = \frac{1}{n}$
+    - $F_{avg}$ shall not exceed 0.67
 7. 80% min stress for rupture at the end of 100 000h.
 
 for structural grade materials, the basic allowable stress shall be 0.92 times the lowest value determined in 1 through 7.
