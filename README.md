@@ -17,7 +17,7 @@ Created this repository on 2026-06-22 for the purposes of collecting my notes an
     - Turbomachinery Train
     - Steam Turbine
 4. Piping Design
-    - Components (soon)
+    - Heat Tracing
     - Materials
     - Valves (soon)
 5. Stress Analysis (soon)
